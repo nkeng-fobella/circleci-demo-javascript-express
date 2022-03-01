@@ -44,7 +44,7 @@ MERN uses express web framework. Our app sits in server.js where we check for NO
 
 If NODE_ENV is development, we apply Webpack middlewares for bundling and Hot Module Replacement.
 
-#### Server Side Rendering
+
 
 We use React Router's match function for handling all page requests so that browser history works.
 
